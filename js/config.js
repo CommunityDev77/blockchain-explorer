@@ -1,5 +1,5 @@
 const ExplorerConfig = {
-  apiBaseUrl: 'http://explorer.chimeraproject.io:8197',
+  apiBaseUrl: 'http://chimera.pdss2access.com:11246',
   ticker: 'CMRA',
   maxSupply: 100000000000,
   emissionSpeed: 21,
