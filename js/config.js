@@ -1,5 +1,5 @@
 const ExplorerConfig = {
-  apiBaseUrl: 'http://blockapi.chimeraproject.io',
+  apiBaseUrl: 'http://explorer.chimeraproject.io:8197',
   ticker: 'CMRA',
   maxSupply: 100000000000,
   emissionSpeed: 21,
